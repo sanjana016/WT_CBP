@@ -26,7 +26,7 @@ const Navbar = (props) => {
           <a class="navbar-brand" href="#" />
           <span>
             <img src={logo} alt="" width="50" height="50" class="logo" />
-            <div style={{ color: "white" }}> Mafiosos </div>
+            <div style={{ color: "white" }}> T-Share </div>
           </span>
           <div></div>
         </div>
