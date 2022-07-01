@@ -1,0 +1,15 @@
+.home{
+  width: 100%;
+  height: 100%;
+}
+.home-container{
+  display: flex;
+  padding-top: 60px;
+  /* background-image: url("C:\Users\AARUSHI\Desktop\team-6\mafiosos\src\assets\background-imge.webp"); */
+  /* background-image: url("C:\Users\salla\mafioso\team-6\mafiosos\src\assets\leaves.webp"); */
+  opacity: 0.8 ;
+  background-size: cover;
+}
+.logbtn:hover{
+background-color: rgb(22, 110, 22);
+}

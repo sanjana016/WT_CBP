@@ -1,0 +1,19 @@
+.signin{
+    background-color: rgb(119, 192, 91);
+    justify-content: center;
+    margin-top: 15vh;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 4px solid grey;
+}
+.signup{
+    margin-top: 8vh;
+    background-color:rgb(119, 192, 91);
+    justify-content: space-around;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 4px solid grey;
+}
+.logo{
+    margin-left: 0;
+}

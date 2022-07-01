@@ -1,0 +1,21 @@
+.card{
+    width: 350px;
+    height: 300px;
+    border: 2px solid black;
+}
+svg{
+    width: 25px;
+    height: 30px;
+    justify-content: space-around;
+}
+.svgButton{
+    background-color: rgb(255, 255, 255);
+    margin-right: 50px;
+    border-bottom-color: azure;
+    margin-bottom: 20px;
+    border: none;
+}
+
+.svgButton:hover{
+    background-color: rgb(83, 142, 73);
+}
